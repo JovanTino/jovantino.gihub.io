@@ -205,6 +205,7 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
+  text-align: center;
 }
 
 .home__title-color {
@@ -348,7 +349,7 @@ img {
 }
 /* ===== FOOTER =====*/
 .footer {
-  background-color: var(--second-color);
+  background-color: #3c3d3e;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
