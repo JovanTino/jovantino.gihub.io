@@ -336,11 +336,31 @@ img {
 }
 
 /* ===== CONTACT =====*/
+
 .container-contact {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0px auto;
+  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+  width: fit-content;
+  margin-top: 12px;
+  padding: 6px;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 100;
 }
+.container-contact .contact-1 {
+  margin-right: 5px;
+}
+.border {
+  border: 1px solid rgba(37, 37, 37, 0.293);
+  height: 35px;
+}
+.container-contact .contact-1-ch {
+  margin-left: 12px;
+}
+
 .container-contact span {
   font-size: 26px;
 }
