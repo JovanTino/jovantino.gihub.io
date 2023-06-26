@@ -336,10 +336,7 @@ img {
 }
 
 /* ===== CONTACT =====*/
-.container-contact-1 {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-}
+
 .container-contact {
   display: flex;
   justify-content: center;
